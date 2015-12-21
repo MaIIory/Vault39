@@ -1,0 +1,25 @@
+{
+  "name": "db_vault_users",
+  "version": "1.0.0",
+  "description": "Cool application for vault dwellers!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaIIory/Vault39.git"
+  },
+  "author": "L.C.",
+  "bugs": {
+    "url": "https://github.com/MaIIory/Vault39/issues"
+  },
+  "homepage": "https://github.com/MaIIory/Vault39#readme",
+    "dependencies": {
+        "express": "latest"
+    },
+  "engines": {
+    "node": "latest"
+  }
+}
